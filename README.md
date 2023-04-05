@@ -13,7 +13,9 @@
 - Axios
 - React Router
 ## Backend
-- https://github.com/AnmarHani/park-finder-backend
+- Django
+## Database
+- SQL | PostgreSQL
 
 # Showcase:
 ## HOME PAGE
